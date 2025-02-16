@@ -4,7 +4,7 @@
 
 ## **1. Overview**
 
-The **Huffman Compression Tool** is a desktop application designed to compress and decompress plain text files using Huffman encoding—a lossless data compression algorithm. This tool demonstrates practical applications of algorithm design, file I/O operations, error handling, and graphical user interface (GUI) development in Python. It is particularly useful for understanding how variable-length encoding can reduce file size based on character frequency. It's one of my most favourite algorithm , i really enjoyed devoloping this classic algorithm.
+This **Huffman Compression Tool** is a desktop application designed to compress and decompress plain text files using Huffman encoding—a lossless data compression algorithm. This tool demonstrates practical applications of algorithm design, file I/O operations, error handling, and graphical user interface (GUI) development in Python. It is particularly useful for understanding how variable-length encoding can reduce file size based on character frequency. It's one of my most favourite algorithm , i really enjoyed devoloping this classic masterpiece.
 
 ---
 
