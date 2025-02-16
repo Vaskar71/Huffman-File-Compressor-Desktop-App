@@ -105,12 +105,12 @@ The **Huffman Compression Tool** is a desktop application designed to compress a
 ### **4.2. Setting Up the Project**
 
 1. **Download/Clone the Code:**  
-   Save the source code as `huffman_tool_attractive.py` in a dedicated project directory (e.g., `HuffmanCompressor/`).
+   Save the source code as `huffman_tool.py` in a dedicated project directory (e.g., `HuffmanCompressor/`).
 
 2. **Project Directory Structure:**
    ```
    HuffmanCompressor/
-   ├── huffman_tool_attractive.py   # Main application file
+   ├── huffman_tool.py   # Main application file
    ├── README.md                    # Project overview and instructions
    └── requirements.txt             # (Optional) List of dependencies
    ```
@@ -126,7 +126,7 @@ The **Huffman Compression Tool** is a desktop application designed to compress a
 2. **Run the Script:**  
    Open an integrated terminal in your IDE and execute:
    ```bash
-   python huffman_tool_attractive.py
+   python huffman_tool.py
    ```
 
 3. **Interact with the GUI:**  
