@@ -8,6 +8,8 @@ The **Huffman Compression Tool** is a desktop application designed to compress a
 
 ---
 
+<img width="382" alt="Image" src="https://github.com/user-attachments/assets/175e1106-c459-41e3-977f-a27ea9bffa33" />
+
 ## **2. Core Functionality**
 
 ### **2.1. Compression Process**
@@ -38,6 +40,8 @@ The **Huffman Compression Tool** is a desktop application designed to compress a
   - A fixed-size header length indicator (4 bytes).
   - The JSON-serialized header.
   - The compressed byte array representing the original text.
+
+<img width="184" alt="Image" src="https://github.com/user-attachments/assets/f0d529d3-1377-452c-a014-05f41ffc7356" />
 
 ### **2.2. Decompression Process**
 
